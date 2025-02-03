@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/efoddavid" target="blank"><img src="https://img.shields.io/twitter/follow/efoddavid?logo=twitter&style=for-the-badge" alt="efoddavid" /></a> </p>
 
-- 🔭 I’m currently working on [a NextJS project](https://github.com/efodthe2nd/spareparts-marketplace)
+- 🔭 I’m currently working on **a Typescript & NextJS project**
 
 - 🌱 I’m currently learning **NextJs & What it means to work with Large-Language-Models**
 
