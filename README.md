@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="LinkedIn Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm David Efod</h1>
 <h3 align="center">I'm a frontend specialized full stack Software Engineer
 </h3>
