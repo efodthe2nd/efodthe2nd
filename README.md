@@ -23,12 +23,7 @@ I'm a frontend-specialized full-stack Software Engineer.
 - **TypeScript:** 1.50%
 
 ## GitHub Stats:
-- **Total Stars Earned:** 3
-- **Total Commits (2025):** 41
-- **Total PRs:** 49
-- **Total Issues:** 0
-- **Contributed to (last year):** 0
-- **Grade:** C+
+[![Efod's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributions Summary:
 - **Total Contributions:** 4,706 (since Nov 21, 2017)
