@@ -4,15 +4,36 @@ I'm a frontend-specialized full-stack Software Engineer.
 
 **GitHub Username:** efodthe2nd
 
-- 🔭 I’m currently working on a Spareparts marketplace utilizing NextJs and Typescript.
-- 🌱 I’m currently learning Next.js & LLMs.
-- 👯 I’m looking to collaborate on projects related to web applications & llms.
+- 🔭 I’m currently working on a NextJs and Typescript Project.
+- 🌱 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on projects related to web applications and llms.
 - 🤝 I’m looking for help with building appropriate connections with other great software engineers.
-- 👨‍💻 All of my projects are available at [david.com](https://www.david.reeoah.com).
+- 👨‍💻 All of my projects are available at [david.projects.com](https://david.reeoah.com).
 - 💬 Ask me about any subject related to software engineering.
 - 📫 How to reach me: davidefod@gmail.com.
-- 📄 Know about my experiences: [Resume]().
-- ⚡ Fun fact: AI is eating software 😁.
+- 📄 Know about my experiences: [Resume](#).
+- ⚡ Fun fact: AI is eating software.
+
+## Most Used Languages:
+- **Python:** 35.23%
+- **JavaScript:** 23.03%
+- **C:** 19.48%
+- **HTML:** 12.65%
+- **CSS:** 8.11%
+- **TypeScript:** 1.50%
+
+## GitHub Stats:
+- **Total Stars Earned:** 3
+- **Total Commits (2025):** 41
+- **Total PRs:** 49
+- **Total Issues:** 0
+- **Contributed to (last year):** 0
+- **Grade:** C+
+
+## Contributions Summary:
+- **Total Contributions:** 4,706 (since Nov 21, 2017)
+- **Current Streak:** 7 days (Jan 27 - Feb 2)
+- **Longest Streak:** 18 days (Jul 3, 20
 
 ## Connect with me:
 
@@ -58,3 +79,7 @@ I'm a frontend-specialized full-stack Software Engineer.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?logo=vagrant&logoColor=white)
+
+## Pinned Repositories
+
+[![Spareparts Marketplace](https://github.com/efodthe2nd/spareparts-marketplace)](https://github.com/efodthe2nd/spareparts-marketplace)
