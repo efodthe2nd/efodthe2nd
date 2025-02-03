@@ -23,7 +23,7 @@ I'm a frontend-specialized full-stack Software Engineer.
 - **TypeScript:** 1.50%
 
 ## GitHub Stats:
-[![Efod's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Efod's Github Stats](https://github-readme-stats.vercel.app/api?username=efodthe2nd)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributions Summary:
 - **Total Contributions:** 4,706 (since Nov 21, 2017)
