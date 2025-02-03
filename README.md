@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Efod</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">I'm a frontend specialized full stack Software Engineer
+</h3>
 
 <p align="left"> <a href="https://twitter.com/efoddavid" target="blank"><img src="https://img.shields.io/twitter/follow/efoddavid?logo=twitter&style=for-the-badge" alt="efoddavid" /></a> </p>
 
