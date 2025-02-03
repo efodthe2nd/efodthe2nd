@@ -14,23 +14,6 @@ I'm a frontend-specialized full-stack Software Engineer.
 - 📄 Know about my experiences: [Resume](#).
 - ⚡ Fun fact: AI is eating software.
 
-## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efodthe2nd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-## GitHub Stats:
-[![Efod's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=efodthe2nd&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Efod's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-## Contributions Summary:
-- **Total Contributions:** 4,706 (since Nov 21, 2017)
-- **Current Streak:** 7 days (Jan 27 - Feb 2)
-- **Longest Streak:** 18 days (Jul 3, 20
-
-## Connect with me:
-
-- [Twitter: @efoddavid](https://twitter.com/efoddavid)
-- [GitHub: efodthe2nd](https://github.com/efodthe2nd)
 
 ## Languages and Tools:
 
@@ -71,6 +54,27 @@ I'm a frontend-specialized full-stack Software Engineer.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?logo=vagrant&logoColor=white)
+
+
+
+## Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efodthe2nd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Stats:
+[![Efod's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=efodthe2nd&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Efod's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+## Contributions Summary:
+- **Total Contributions:** 4,706 (since Nov 21, 2017)
+- **Current Streak:** 7 days (Jan 27 - Feb 2)
+- **Longest Streak:** 18 days (Jul 3, 20
+
+## Connect with me:
+
+- [Twitter: @efoddavid](https://twitter.com/efoddavid)
+- [GitHub: efodthe2nd](https://github.com/efodthe2nd)
+
 
 ## Pinned Repositories
 
