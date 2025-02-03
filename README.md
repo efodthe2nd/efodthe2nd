@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **AI is eating software**
 
-<h4 align="left">Connect with me:</h4>
+<h4 margin-top="30px" align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/efoddavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efoddavid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-efod-27682b151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-efod-27682b151/" height="30" width="40" /></a>
