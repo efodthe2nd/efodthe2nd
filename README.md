@@ -11,13 +11,13 @@ I'm a frontend-specialized full-stack Software Engineer.
 - 👨‍💻 All of my projects are available at [david.com](https://www.david.reeoah.com).
 - 💬 Ask me about any subject related to software engineering.
 - 📫 How to reach me: davidefod@gmail.com.
-- 📄 Know about my experiences: [Resume](#).
+- 📄 Know about my experiences: [Resume]().
 - ⚡ Fun fact: AI is eating software 😁.
 
 ## Connect with me:
 
-- [Twitter: @martins_ndifon](https://twitter.com/efoddavid)
-- [GitHub: martinsndifon](https://github.com/efodthe2nd)
+- [Twitter: @efoddavid](https://twitter.com/efoddavid)
+- [GitHub: efodthe2nd](https://github.com/efodthe2nd)
 
 ## Languages and Tools:
 
