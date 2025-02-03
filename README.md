@@ -15,12 +15,7 @@ I'm a frontend-specialized full-stack Software Engineer.
 - ⚡ Fun fact: AI is eating software.
 
 ## Most Used Languages:
-- **Python:** 35.23%
-- **JavaScript:** 23.03%
-- **C:** 19.48%
-- **HTML:** 12.65%
-- **CSS:** 8.11%
-- **TypeScript:** 1.50%
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efodthe2nd)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats:
 [![Efod's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=efodthe2nd&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
