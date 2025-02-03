@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Efod</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
+<p align="left"> <a href="https://twitter.com/efoddavid" target="blank"><img src="https://img.shields.io/twitter/follow/efoddavid?logo=twitter&style=for-the-badge" alt="efoddavid" /></a> </p>
+
 - 🔭 I’m currently working on [a NextJS project](https://github.com/efodthe2nd/spareparts-marketplace)
 
 - 🌱 I’m currently learning **NextJs & What it means to work with Large-Language-Models**
@@ -32,7 +34,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efodthe2nd" alt="efodthe2nd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/efoddavid" target="blank"><img src="https://img.shields.io/twitter/follow/efoddavid?logo=twitter&style=for-the-badge" alt="efoddavid" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efodthe2nd&show_icons=true&locale=en&layout=compact" alt="efodthe2nd" /></p>
