@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [david.reeoah.com](david.reeoah.com)
 
-- 📝 I regularly write articles on https://medium.com/@davidefod.
+- 📝 I like to write, run and swim.
 
 - 💬 Ask me about **Typescript & NextJS**
 
